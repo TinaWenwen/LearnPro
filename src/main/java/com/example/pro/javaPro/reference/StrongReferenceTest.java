@@ -17,7 +17,7 @@ public class StrongReferenceTest {
         System.gc();
         //暂停一秒钟
         TimeUnit.SECONDS.sleep(1);
-        //false代表对象已经获取不到被回收了 h
+        //false代表对象已经获取不到被回收了
         System.out.println(object == null);
     }
 
