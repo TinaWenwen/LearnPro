@@ -42,7 +42,7 @@ public class lc_01_twoSum {
     /**
      * n^2
      *
-     * @param nums
+     * @param numsgit
      * @param target
      * @return
      */
